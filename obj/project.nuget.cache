@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMmvnYbQKuogus4yVjJG6/zTiaXWldyRLDjNChpKdcstmQaMSA7uQilzJh0gtt/2NBlWAoIE1q4s2qvJO1nclg==",
+  "dgSpecHash": "xhqmpCspVPN7xTmHB2CAk+ttGoD4curIsiHNQzLU0jq/EK/hRpj6lQNbOfsFCQ7n1fG30RuvGJ/z17rXqyBNRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\API-web-avec-des-contr-leurs-ASP.NET-Core-\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

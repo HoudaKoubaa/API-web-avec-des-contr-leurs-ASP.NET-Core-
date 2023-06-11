@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\API-web-avec-des-contr-leurs-ASP.NET-Core-\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\API-web-avec-des-contr-leurs-ASP.NET-Core-\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Documents\\GitHub\\ContosoPizza\\API-web-avec-des-contr-leurs-ASP.NET-Core-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
